@@ -7,6 +7,7 @@ body{
     font-family: Outfit;
 }
 
+/* center the div and define dimension */
 .all{
     position: absolute;
     margin: auto;
@@ -21,10 +22,12 @@ body{
     box-shadow: 10px 5px 5px #d6e2f040;
 }
 
+/* color of the title*/
 .title{
     color: hsl(218, 44%, 22%);
 }
 
+/* color of the sub-title */
 .sub-title{
     color: hsl(220, 15%, 55%);
 }
@@ -33,11 +36,13 @@ body{
     padding: 15px;
 }
 
+/* width img */
 img{
     width: 100%;
     border-radius:15px;
 }
 
+/* center text */
 .text{
     text-align:center;
     padding-bottom: 20px;
